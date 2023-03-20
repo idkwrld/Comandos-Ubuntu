@@ -1,4 +1,4 @@
-# Comandos-Ubuntu
+# Comandos Ubuntu  o WSL
 
 |*Comando*| *Descripcion*            |
 |---------|--------------------------|
