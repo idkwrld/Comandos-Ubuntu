@@ -17,4 +17,3 @@
 | alias nombre_alias=comando | Crear Alias |
 | fsck           | chequear si hay errores en nuestro disco duro |
 
-# Mas comandos en https://www.guia-ubuntu.com/index.php/Comandos
